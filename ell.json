@@ -40,10 +40,6 @@
     "desc": "Fhkry"
   },
   {
-    "id": "120363425387593668@newsletter",
-    "desc": "Muna"
-  },
-  {
     "id": "120363426172031959@newsletter",
     "desc": "Fhkry"
   },
@@ -66,66 +62,6 @@
   {
     "id": "120363428676727659@newsletter",
     "desc": "Fhkry"
-  },
-  {
-    "id": "120363429700082009@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363424658403252@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363425302763577@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363424517749199@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363425519772466@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363408239699658@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363427502941961@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363425990220633@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363427814075901@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363426696117033@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363409252556677@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363406762350544@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363408253352031@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363410217064953@newsletter",
-    "desc": "Muna"
-  },
-  {
-    "id": "120363426866716261@newsletter",
-    "desc": "Muna"
   },
   {
     "id": "120363408958993206@newsletter",
@@ -210,5 +146,13 @@
   {
     "id": "120363425339050564@newsletter",
     "desc": "Fhkry"
+  },
+  {
+    "id": "120363410217064953@newsletter",
+    "desc": "Muna"
+  },
+  {
+    "id": "120363426866716261@newsletter",
+    "desc": "Muna"
   }
 ]
